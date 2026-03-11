@@ -7,3 +7,4 @@ dnspython
 pytz
 apscheduler
 psutil
+Flask==3.0.2
